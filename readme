@@ -1,2 +1,8 @@
 This is a prompt-centric project with a vision that to support a agent to conduct installation and system testing in a 
 fully autonomous and isolated environment.
+
+Notes: jules requires docker login for unlimited docker pull actions:
+```
+docker login -u username
+your-key
+```
